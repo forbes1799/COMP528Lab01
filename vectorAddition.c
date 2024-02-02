@@ -28,8 +28,8 @@ int main(void){
 	//TASK: Print Array2 Values
 
 	/*
-	TASK: Declare a new array, and sum up element by element arr3[i] = arr1[i] + arr2[i]
-	Print arr3 after you are done
+	TASK: Declare a new array, add each array together element by element.
+ 	      Print the new array when done.
 	*/
 
 }
